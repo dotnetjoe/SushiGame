@@ -2,7 +2,7 @@
 I wrote this game in my Advanced Programming in Java class. This game allows a player (you) to create sushi and compete against other chefs in a quest to get customers to eat your sushi.
 
 ## How to Play
-The user begins the game with nothing on their sushi belt. They should star by making some sushi! This is done by clicking the "Make some Sushi!" button in the top right corner of the window. Go through the steps of making sushi. 
+The user begins the game with nothing on their sushi belt. They should start by making some sushi! This is done by clicking the "Make some Sushi!" button in the top right corner of the window. Go through the steps of making sushi. 
 
 Click on a belt space at any time to see its position. If the sushi is successfully placed, the color of your plate will appear in the position you specified, otherwise, it will give you an error at the bottom left of the window. The cost of making the sushi will then be subtracted from your initial balance of $100. 
 
